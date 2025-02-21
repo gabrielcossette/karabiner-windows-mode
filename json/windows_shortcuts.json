@@ -9,7 +9,7 @@
                      "bundle_identifiers": [
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
-                        "^org\\.vmware\\.fusion$",
+                        "^com\\.vmware\\.fusion$",
                         "^org\\.gnu\\.emacs$",
                         "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
@@ -64,7 +64,7 @@
                      "bundle_identifiers": [
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
-                        "^org\\.vmware\\.fusion$",
+                        "^com\\.vmware\\.fusion$",
                         "^org\\.gnu\\.emacs$",
                         "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
@@ -119,7 +119,7 @@
                      "bundle_identifiers": [
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
-                        "^org\\.vmware\\.fusion$",
+                        "^com\\.vmware\\.fusion$",
                         "^org\\.gnu\\.emacs$",
                         "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
@@ -176,7 +176,7 @@
                      "bundle_identifiers": [
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
-                        "^org\\.vmware\\.fusion$",
+                        "^com\\.vmware\\.fusion$",
                         "^org\\.gnu\\.emacs$",
                         "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
@@ -232,7 +232,7 @@
                      "bundle_identifiers": [
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
-                        "^org\\.vmware\\.fusion$",
+                        "^com\\.vmware\\.fusion$",
                         "^org\\.gnu\\.emacs$",
                         "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
@@ -287,7 +287,7 @@
                      "bundle_identifiers": [
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
-                        "^org\\.vmware\\.fusion$",
+                        "^com\\.vmware\\.fusion$",
                         "^org\\.gnu\\.emacs$",
                         "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
@@ -339,7 +339,7 @@
                      "bundle_identifiers": [
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
-                        "^org\\.vmware\\.fusion$",
+                        "^com\\.vmware\\.fusion$",
                         "^org\\.gnu\\.emacs$",
                         "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
@@ -396,7 +396,7 @@
                      "bundle_identifiers": [
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
-                        "^org\\.vmware\\.fusion$",
+                        "^com\\.vmware\\.fusion$",
                         "^org\\.gnu\\.emacs$",
                         "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
@@ -452,7 +452,7 @@
                      "bundle_identifiers": [
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
-                        "^org\\.vmware\\.fusion$",
+                        "^com\\.vmware\\.fusion$",
                         "^org\\.gnu\\.emacs$",
                         "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
@@ -507,7 +507,7 @@
                      "bundle_identifiers": [
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
-                        "^org\\.vmware\\.fusion$",
+                        "^com\\.vmware\\.fusion$",
                         "^org\\.gnu\\.emacs$",
                         "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
@@ -559,7 +559,7 @@
                      "bundle_identifiers": [
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
-                        "^org\\.vmware\\.fusion$",
+                        "^com\\.vmware\\.fusion$",
                         "^org\\.gnu\\.emacs$",
                         "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
@@ -614,7 +614,7 @@
                      "bundle_identifiers": [
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
-                        "^org\\.vmware\\.fusion$",
+                        "^com\\.vmware\\.fusion$",
                         "^org\\.gnu\\.emacs$",
                         "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
@@ -671,7 +671,7 @@
                      "bundle_identifiers": [
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
-                        "^org\\.vmware\\.fusion$",
+                        "^com\\.vmware\\.fusion$",
                         "^org\\.gnu\\.emacs$",
                         "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
@@ -726,7 +726,7 @@
                      "bundle_identifiers": [
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
-                        "^org\\.vmware\\.fusion$",
+                        "^com\\.vmware\\.fusion$",
                         "^org\\.gnu\\.emacs$",
                         "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
@@ -783,7 +783,7 @@
                      "bundle_identifiers": [
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
-                        "^org\\.vmware\\.fusion$",
+                        "^com\\.vmware\\.fusion$",
                         "^org\\.gnu\\.emacs$",
                         "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
@@ -838,7 +838,7 @@
                      "bundle_identifiers": [
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
-                        "^org\\.vmware\\.fusion$",
+                        "^com\\.vmware\\.fusion$",
                         "^org\\.gnu\\.emacs$",
                         "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
@@ -893,7 +893,7 @@
                      "bundle_identifiers": [
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
-                        "^org\\.vmware\\.fusion$",
+                        "^com\\.vmware\\.fusion$",
                         "^org\\.gnu\\.emacs$",
                         "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
@@ -948,7 +948,7 @@
                      "bundle_identifiers": [
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
-                        "^org\\.vmware\\.fusion$",
+                        "^com\\.vmware\\.fusion$",
                         "^org\\.gnu\\.emacs$",
                         "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
@@ -1005,7 +1005,7 @@
                      "bundle_identifiers": [
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
-                        "^org\\.vmware\\.fusion$",
+                        "^com\\.vmware\\.fusion$",
                         "^org\\.gnu\\.emacs$",
                         "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
@@ -1060,7 +1060,7 @@
                      "bundle_identifiers": [
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
-                        "^org\\.vmware\\.fusion$",
+                        "^com\\.vmware\\.fusion$",
                         "^org\\.gnu\\.emacs$",
                         "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
@@ -1115,7 +1115,7 @@
                      "bundle_identifiers": [
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
-                        "^org\\.vmware\\.fusion$",
+                        "^com\\.vmware\\.fusion$",
                         "^org\\.gnu\\.emacs$",
                         "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
@@ -1170,7 +1170,7 @@
                      "bundle_identifiers": [
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
-                        "^org\\.vmware\\.fusion$",
+                        "^com\\.vmware\\.fusion$",
                         "^org\\.gnu\\.emacs$",
                         "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
@@ -1225,7 +1225,7 @@
                      "bundle_identifiers": [
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
-                        "^org\\.vmware\\.fusion$",
+                        "^com\\.vmware\\.fusion$",
                         "^org\\.gnu\\.emacs$",
                         "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
@@ -1280,7 +1280,7 @@
                      "bundle_identifiers": [
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
-                        "^org\\.vmware\\.fusion$",
+                        "^com\\.vmware\\.fusion$",
                         "^org\\.gnu\\.emacs$",
                         "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
@@ -1335,7 +1335,7 @@
                      "bundle_identifiers": [
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
-                        "^org\\.vmware\\.fusion$",
+                        "^com\\.vmware\\.fusion$",
                         "^org\\.gnu\\.emacs$",
                         "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
@@ -1390,7 +1390,7 @@
                      "bundle_identifiers": [
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
-                        "^org\\.vmware\\.fusion$",
+                        "^com\\.vmware\\.fusion$",
                         "^org\\.gnu\\.emacs$",
                         "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
@@ -1445,7 +1445,7 @@
                      "bundle_identifiers": [
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
-                        "^org\\.vmware\\.fusion$",
+                        "^com\\.vmware\\.fusion$",
                         "^org\\.gnu\\.emacs$",
                         "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
@@ -1500,7 +1500,7 @@
                      "bundle_identifiers": [
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
-                        "^org\\.vmware\\.fusion$",
+                        "^com\\.vmware\\.fusion$",
                         "^org\\.gnu\\.emacs$",
                         "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
@@ -1555,7 +1555,7 @@
                      "bundle_identifiers": [
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
-                        "^org\\.vmware\\.fusion$",
+                        "^com\\.vmware\\.fusion$",
                         "^org\\.gnu\\.emacs$",
                         "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
@@ -1610,7 +1610,7 @@
                      "bundle_identifiers": [
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
-                        "^org\\.vmware\\.fusion$",
+                        "^com\\.vmware\\.fusion$",
                         "^org\\.gnu\\.emacs$",
                         "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
@@ -1665,7 +1665,7 @@
                      "bundle_identifiers": [
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
-                        "^org\\.vmware\\.fusion$",
+                        "^com\\.vmware\\.fusion$",
                         "^org\\.gnu\\.emacs$",
                         "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
@@ -1720,7 +1720,7 @@
                      "bundle_identifiers": [
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
-                        "^org\\.vmware\\.fusion$",
+                        "^com\\.vmware\\.fusion$",
                         "^org\\.gnu\\.emacs$",
                         "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
@@ -1775,7 +1775,7 @@
                      "bundle_identifiers": [
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
-                        "^org\\.vmware\\.fusion$",
+                        "^com\\.vmware\\.fusion$",
                         "^org\\.gnu\\.emacs$",
                         "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
@@ -1830,7 +1830,7 @@
                      "bundle_identifiers": [
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
-                        "^org\\.vmware\\.fusion$",
+                        "^com\\.vmware\\.fusion$",
                         "^org\\.gnu\\.emacs$",
                         "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
@@ -1885,7 +1885,7 @@
                      "bundle_identifiers": [
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
-                        "^org\\.vmware\\.fusion$",
+                        "^com\\.vmware\\.fusion$",
                         "^org\\.gnu\\.emacs$",
                         "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
@@ -1940,7 +1940,7 @@
                      "bundle_identifiers": [
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
-                        "^org\\.vmware\\.fusion$",
+                        "^com\\.vmware\\.fusion$",
                         "^org\\.gnu\\.emacs$",
                         "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
@@ -1995,7 +1995,7 @@
                      "bundle_identifiers": [
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
-                        "^org\\.vmware\\.fusion$",
+                        "^com\\.vmware\\.fusion$",
                         "^org\\.gnu\\.emacs$",
                         "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
@@ -2048,7 +2048,7 @@
                      "bundle_identifiers": [
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
-                        "^org\\.vmware\\.fusion$",
+                        "^com\\.vmware\\.fusion$",
                         "^org\\.gnu\\.emacs$",
                         "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
@@ -2100,7 +2100,7 @@
                      "bundle_identifiers": [
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
-                        "^org\\.vmware\\.fusion$",
+                        "^com\\.vmware\\.fusion$",
                         "^com\\.citrix\\.XenAppViewer$",
                         "^com\\.microsoft\\.rdc\\.macos$"
                      ],
@@ -2139,7 +2139,7 @@
                      "bundle_identifiers": [
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
-                        "^org\\.vmware\\.fusion$",
+                        "^com\\.vmware\\.fusion$",
                         "^com\\.citrix\\.XenAppViewer$",
                         "^com\\.microsoft\\.rdc\\.macos$"
                      ],
@@ -2178,7 +2178,7 @@
                      "bundle_identifiers": [
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
-                        "^org\\.vmware\\.fusion$",
+                        "^com\\.vmware\\.fusion$",
                         "^com\\.citrix\\.XenAppViewer$",
                         "^com\\.microsoft\\.rdc\\.macos$"
                      ],
@@ -2217,7 +2217,7 @@
                      "bundle_identifiers": [
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
-                        "^org\\.vmware\\.fusion$",
+                        "^com\\.vmware\\.fusion$",
                         "^com\\.citrix\\.XenAppViewer$",
                         "^com\\.microsoft\\.rdc\\.macos$"
                      ],
@@ -2256,7 +2256,7 @@
                      "bundle_identifiers": [
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
-                        "^org\\.vmware\\.fusion$",
+                        "^com\\.vmware\\.fusion$",
                         "^com\\.citrix\\.XenAppViewer$",
                         "^com\\.microsoft\\.rdc\\.macos$"
                      ],
@@ -2295,7 +2295,7 @@
                      "bundle_identifiers": [
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
-                        "^org\\.vmware\\.fusion$",
+                        "^com\\.vmware\\.fusion$",
                         "^com\\.citrix\\.XenAppViewer$",
                         "^com\\.microsoft\\.rdc\\.macos$"
                      ],
@@ -2334,7 +2334,7 @@
                      "bundle_identifiers": [
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
-                        "^org\\.vmware\\.fusion$",
+                        "^com\\.vmware\\.fusion$",
                         "^com\\.citrix\\.XenAppViewer$",
                         "^com\\.microsoft\\.rdc\\.macos$"
                      ],
@@ -2373,7 +2373,7 @@
                      "bundle_identifiers": [
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
-                        "^org\\.vmware\\.fusion$",
+                        "^com\\.vmware\\.fusion$",
                         "^com\\.citrix\\.XenAppViewer$",
                         "^com\\.microsoft\\.rdc\\.macos$"
                      ],
@@ -2412,7 +2412,7 @@
                      "bundle_identifiers": [
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
-                        "^org\\.vmware\\.fusion$",
+                        "^com\\.vmware\\.fusion$",
                         "^com\\.citrix\\.XenAppViewer$",
                         "^com\\.microsoft\\.rdc\\.macos$"
                      ],
@@ -2586,7 +2586,7 @@
                      "bundle_identifiers": [
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
-                        "^org\\.vmware\\.fusion$",
+                        "^com\\.vmware\\.fusion$",
                         "^org\\.gnu\\.emacs$",
                         "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
@@ -2634,7 +2634,7 @@
                      "bundle_identifiers": [
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
-                        "^org\\.vmware\\.fusion$",
+                        "^com\\.vmware\\.fusion$",
                         "^org\\.gnu\\.emacs$",
                         "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
@@ -2682,7 +2682,7 @@
                      "bundle_identifiers": [
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
-                        "^org\\.vmware\\.fusion$",
+                        "^com\\.vmware\\.fusion$",
                         "^org\\.gnu\\.emacs$",
                         "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
@@ -2730,7 +2730,7 @@
                      "bundle_identifiers": [
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
-                        "^org\\.vmware\\.fusion$",
+                        "^com\\.vmware\\.fusion$",
                         "^org\\.gnu\\.emacs$",
                         "^org\\.gnu\\.Emacs$",
                         "^com\\.jetbrains",
@@ -3011,7 +3011,7 @@
                      "bundle_identifiers": [
                         "^org\\.virtualbox\\.app\\.VirtualBoxVM$",
                         "^com\\.parallels\\.desktop\\.console$",
-                        "^org\\.vmware\\.fusion$",
+                        "^com\\.vmware\\.fusion$",
                         "^com\\.citrix\\.XenAppViewer$",
                         "^com\\.microsoft\\.rdc\\.macos$"
                      ],
@@ -3019,7 +3019,7 @@
                         "Chrome Remote Desktop\\.app"
                      ],
                      "type": "frontmost_application_unless"
-                  }
+                  }æ
                ],
                "from": {
                   "key_code": "tab",
