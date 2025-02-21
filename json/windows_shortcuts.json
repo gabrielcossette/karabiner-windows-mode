@@ -3019,7 +3019,7 @@
                         "Chrome Remote Desktop\\.app"
                      ],
                      "type": "frontmost_application_unless"
-                  }æ
+                  }
                ],
                "from": {
                   "key_code": "tab",
